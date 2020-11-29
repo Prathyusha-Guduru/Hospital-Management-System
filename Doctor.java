@@ -41,12 +41,12 @@ public class Doctor
     
     }
 
-    public static void main(String[] args) 
-    {
-        Doctor doc1 = new Doctor();
-        doc1.new_doctor();
-        doc1.doctor_info();
-    }
+    // public static void main(String[] args) 
+    // {
+    //     Doctor doc1 = new Doctor();
+    //     doc1.new_doctor();
+    //     doc1.doctor_info();
+    // }
 }
 
 
