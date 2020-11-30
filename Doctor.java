@@ -11,7 +11,7 @@ public class Doctor
     public void new_doctor()
     {
         Scanner input = new Scanner(System.in);
-        System.out.println("Plese enter the following details : ");
+        System.out.println("Plese enter the following details of the doctor : ");
         System.out.print("ID number  :\t");
         d_id = input.nextLine();
         System.out.print("Name :\t");

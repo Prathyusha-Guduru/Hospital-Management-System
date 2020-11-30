@@ -59,3 +59,20 @@ Who can use this application in real life
  
 
 Any multispecialty hospital which wants to replace to the traditional, inefficient and time-consuming methods of storing and noting down the data manually with fully secure, connected and a reliable computer application. 
+
+Algorithm:
+
+We have used HashMap for implementing the management of the hospital. We have used the HashMap functions like .put() and .get() to do the functions of inserting values for each sector concerned to doctor, staff, and patient and the latter function helps us in extracting the value for that person in any of either sector.
+Generally, HashMap uses the concept of the linked list which basically uses its function of interconnecting it’s the last node to the next node when there is a HashMap value collision, if it’s not so then too it works the same way but for each item the node of each item would be NULL. It’s value changes only in the case of HashMap value collision otherwise unaltered.
+
+We have initialized the header files to govern the function’s implementation easily with no error in the program.
+We have initialized the HashMap.
+We have declared variables.
+We will be taking the details from the user using the get() function which would be done certainly done in the void new() function.
+We have created another function named void info() which would be printing all the values concerned to the person in that sector.
+In the main method, we have called these functions by creating a new object to the concerned class and calling them using the object.that function().
+These procedures work the same in the case of a doctor, staff, and the patient.
+
+Through this implementation, we can handle the record of the hospital management on grounds of their doctor, staff, and patients.
+Using this program, we can know the details for each person in each parameter or update or add details about them which goes on storing them without failure.
+
