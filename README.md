@@ -23,21 +23,21 @@ This mini-project contains the doctor-patient table with all records. for exampl
 
 ## How it works :
 <div align = center>
-<img src = 'Images\Main menu.PNG' width = 300> 
+<img src = 'Images\Main menu.PNG' width = 400> 
 <br>
-<img src = 'Images\Doctors class.PNG' width = 300>
+<img src = 'Images\Doctors class.PNG' width = 400>
 <br>
-<img src = 'Images\Patient class.PNG' width = 300>
+<img src = 'Images\Patient class.PNG' width = 400>
 <br>
-<img src = 'Images\MRI SCAN.PNG' width = 300>
+<img src = 'Images\MRI SCAN.PNG' width = 400>
 <br>
-<img src = 'Images\Custom test with random price.PNG' width = 300>
+<img src = 'Images\Custom test with random price.PNG' width = 400>
 <br>
-<img src = 'Images\Medical store (mask).PNG' width = 300>
+<img src = 'Images\Medical store (mask).PNG' width = 400>
 <br>
-<img src = 'Images\custom medicine.PNG' width = 300>
+<img src = 'Images\custom medicine.PNG' width = 400>
 <br>
-<img src = 'Images\cleaner.PNG' width = 300>
+<img src = 'Images\cleaner.PNG' width = 400>
 <br>
 </div>
 
