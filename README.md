@@ -3,7 +3,7 @@ This mini-project contains the doctor-patient table with all records. for exampl
 
 ## Project title:  
 
-    Hospital Management System using ArrayList in Java 
+    Hospital Management System  in Java 
 
 ## Algorithm:
 
