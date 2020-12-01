@@ -52,17 +52,17 @@ public class Hospital
     {
 
 
-        Doctor doc = new Doctor();
-        doc.new_doctor();
-        doc.doctor_info();
+        // Doctor doc = new Doctor();
+        // doc.new_doctor();
+        // doc.doctor_info();
 
-        patient p1 = new patient();
-        p1.new_patient();
-        p1.patient_info();
+        // patient p1 = new patient();
+        // p1.new_patient();
+        // p1.patient_info();
 
-        staff s = new staff();
-        s.new_staff();
-        s.staff_info();
+        // staff s = new staff();
+        // s.new_staff();
+        // s.staff_info();
 
         lab l = new lab();
         l.diagnostic_tests();
