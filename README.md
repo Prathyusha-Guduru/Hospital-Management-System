@@ -7,7 +7,7 @@ This mini-project contains the doctor-patient table with all records. for exampl
 
 ## Algorithm:
 
-    We have used HashMap for implementing the management of the hospital. We have used the HashMap functions like .put() and .get() to do the functions of inserting values for each sector concerned to doctor, staff, and patient and the latter function helps us in extracting the value for that person in any of either sector.
+    We have used HashMap for implementing the management of the hospital. We have used the HashMap functions like .put() and .get() to do the functions of inserting values for     each sector concerned to doctor, staff, and patient and the latter function helps us in extracting the value for that person in any of either sector.
     Generally, HashMap uses the concept of the linked list which basically uses its function of interconnecting it’s the last node to the next node when there is a HashMap value collision, if it’s not so then too it works the same way but for each item the node of each item would be NULL. It’s value changes only in the case of HashMap value collision otherwise unaltered.
 
     We have initialized the header files to govern the function’s implementation easily with no error in the program.
